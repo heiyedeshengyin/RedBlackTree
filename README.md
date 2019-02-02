@@ -98,7 +98,7 @@ ostream &operator<<(ostream &os, RedBlackTree\<T\> &m)  //重载<<操作符,按�
 
 ### 一个主函数的例子
 ```cpp
-#include "RedBlackTree.h"
+#include "RedBlackTree.cpp"
 
 int main()
 {
